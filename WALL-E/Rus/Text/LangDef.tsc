@@ -1,0 +1,3 @@
+// AddLangDefine  TT_NUM TSC_ID WAV_ID MPEG_ID CONSOLE_LANG
+AddLangDefine	28	17	17	0	ENGLISH
+SkipStartLangDialog

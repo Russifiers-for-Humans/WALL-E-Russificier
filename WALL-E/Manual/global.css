@@ -1,0 +1,285 @@
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+strong { 
+	font-weight: bold; 
+}
+
+div, td, p, span, .combo, .m3, h1, h2 {
+	font-family: Arial,Geneva,Helvetica,sans-serif;
+}
+
+div.cnt {
+	text-align: center;
+}
+
+img {
+	border: 0px;
+}
+
+img.deco {
+	display: block;
+}
+
+table.text {
+	width: 550px;
+}
+
+div.head {
+	text-align: center;
+	font-weight: bold;
+	font-size: 80%;
+}
+
+div.headi {
+	text-align: center;
+	font-size: 80%;
+}
+
+table.text {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+td, th {
+	text-align: left;
+}
+
+td.crcenter {
+	text-align: center;
+	font-size: 70%;
+	vertical-align: top;
+}
+
+td.comment {
+	text-align: center;
+	font-size: 70%;
+}
+
+td.navl {
+	text-align: center;
+	font-size: 9pt;
+}
+
+td.navr {
+	text-align: center;
+	font-size: 9pt;
+}
+
+td.navc {
+	text-align: center;
+	font-size: 8pt;
+}
+
+td.text {
+	vertical-align: top;
+	font-size: 80%;
+	text-align: justify;
+}
+
+td.textc {
+	vertical-align: top;
+	font-size: 80%;
+	text-align: center;
+}
+
+td.textl {
+	vertical-align: top;
+	font-size: 80%;
+}
+
+td.copy {
+	font-size: 8pt;
+	text-align: justify;
+}
+
+td.crleft {
+	text-transform: uppercase;
+	text-align: right;
+	font-size: 80%;
+	vertical-align: top;
+}
+
+td.crright {
+	font-weight: bold;
+	font-size: 80%;
+	vertical-align: top;
+}
+
+p, h1, h2 {
+	margin-left: 50px; 
+	margin-right: 50px;
+	font-size: 80%;
+}
+
+p {
+	text-align: justify;
+}
+
+h1 {
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+
+p.left {
+	text-align: left;
+}
+
+p.right {
+	text-align: right;
+}
+
+p.title {
+	font-weight: bold;
+}
+
+p.ctitle {
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p.subtitle {
+	font-weight: bold;
+}
+
+p.inlay {
+	text-align: left;
+	margin-left: 0px; 
+	margin-right: 0px;
+}
+
+p.section {
+	margin-left: 100px;
+}
+
+p.info {
+	font-size: 70%;
+	text-align: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-family: Tahoma;
+}
+
+p.comment {
+	text-align: center;
+	font-size: 70%;
+}
+
+p.nav {
+	font-size: 70%;
+	text-align: left;
+	font-family: Tahoma;
+}
+
+p.news {
+	font-size: 70%;
+	text-align: left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+p.newshead {
+	font-size: 70%;
+	text-align: right;
+	font-weight: bold;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+a.anav {
+	text-decoration: none;
+}
+
+span.tm {
+	font-size: 60%;
+	font-family: Tahoma;
+	vertical-align: super;
+}
+
+span.select {
+	font-weight: bold;
+}
+
+span.selecti {
+	font-weight: normal;
+}
+
+ol, ul {
+	margin-left: 80px; 
+	margin-right: 50px;
+	padding-left: 0px;
+	font-size: 80%;
+}
+
+ul ul {
+	font-size: 100%;
+	margin-left: 50px; 
+	margin-right: 0px;
+}
+
+ol ol {
+	font-size: 100%;
+}
+
+ul {
+	list-style-type: disc;
+}
+
+li {
+	text-align: justify;
+}
+
+.combo, .m3 {
+	font: normal 8pt Tahoma; 
+}
+
+p.imgtitle {
+	font-weight: bold;
+	text-align: center;
+}
+
+p.imgcopy {
+	text-align: center;
+	font-size: 70%;
+}
+
+#itable table, #itable th, #itable td {
+	border: 1px solid #000000;
+}
+
+#itable th, #itable td {
+	padding: 7px;
+	font-size: 80%;
+}
+
+#itable #s {
+	text-align: center;
+}
+
+span.u, u {
+	text-decoration: underline;
+	display: inline;
+}
+
+span.title {
+	font-weight: bold;
+}
+
+a.troll {
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
+
+a.snowball {
+	text-decoration: none;
+	color: red;
+	font-weight: bold;
+}

@@ -1,0 +1,115 @@
+body {
+	background: #003E70 url(gfx/Tileout.jpg);
+	color: #EEB925;
+}
+
+body, html, textarea {
+	scrollbar-arrow-color:  #ffffff;
+	scrollbar-face-color: #EE9E3E;
+	scrollbar-highlight-color: #D9D1C6;
+	scrollbar-shadow-color: #D9D1C6;
+	scrollbar-3dlight-color: #230E37;
+	scrollbar-track-color: #003E70;
+	scrollbar-darkshadow-color: #230E37;
+}
+
+div, td, p, ul, ol, span, h1, h2 {
+	font-family: Verdana;
+	color: #2C2116;
+	background-color: transparent;
+}
+
+div.head {
+	color: #E31E25;
+	background-color: transparent;
+}
+
+td.main {
+	background: #ffffff url(gfx/Out-2.jpg);
+	color: #2C2116;
+	padding-top: 25px;
+}
+
+td.copy {
+	color: #2C2116;
+	background-color: transparent;
+}
+
+td.crleft, td.crright {
+	width: 378px;
+}
+
+td.newshead {
+	border: 1px solid #E31E25;
+}
+
+p.title, h1 {
+	color: #E31E25;
+	background-color: transparent;
+}
+
+p.comment {
+	color: #2C2116;
+	background-color: transparent;
+}
+
+a {
+	color: #E31E25; 
+	background-color: transparent;
+}
+
+a:hover {
+	color: #2C2116; 
+	background-color: transparent;
+}
+
+a.anav {
+	color: #2C2116; 
+	background-color: transparent;
+}
+
+a.anav:hover {
+	color: #E31E25; 
+	background-color: transparent;
+}
+
+span.select, span.selecti {
+	color: #EE9E3E; 
+	background-color: transparent;
+}
+
+.combo {
+	background-color: #ffffff;
+	color: #2C2116;
+}
+
+p.imgtitle {
+	color: #EEBB26;
+	background-color: transparent;
+}
+
+p.imgcopy {
+	color: #EEBB26;
+	background-color: transparent;
+}
+
+option.new {
+	color: #E31E25; 
+	background-color: transparent;
+}
+
+p, h1, h2 {
+	margin-left: 85px; 
+	margin-right: 85px;
+}
+
+ol, ul {
+	margin-left: 115px; 
+	margin-right: 85px;
+}
+
+table.text {
+	width: 680px;
+	margin-left: 85px;
+	margin-right: 85px;
+}

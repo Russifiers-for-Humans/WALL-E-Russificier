@@ -1,0 +1,36 @@
+OpenBF			DATAS\FONTES
+LoadFont		FONTES\RUSS_FONT
+CloseBF
+
+OpenBF				DATAS\SHARED
+LoadMaterialLib		LEVELS\SHARED\SHARED
+LoadObjectLib		GAMEOBJ\SHARED
+CreatGlobalInGameDatas
+CloseBF
+
+OpenBF			DATAS\RTCSYS
+LoadSysRtc		RTC\01
+LoadSysRtc		RTC\02
+LoadSysRtc		RTC\02_CUT
+LoadSysRtc		RTC\05
+LoadSysRtc		RTC\05A
+LoadSysRtc		RTC\05A_CUT
+LoadSysRtc		RTC\06_CUT
+LoadSysRtc		RTC\07
+LoadSysRtc		RTC\08
+LoadSysRtc		RTC\09
+LoadSysRtc		RTC\10
+LoadSysRtc		RTC\10_CUT
+LoadSysRtc		RTC\11
+LoadSysRtc		RTC\12
+LoadSysRtc		RTC\12A
+LoadSysRtc		RTC\12B
+LoadSysRtc		RTC\12B_CUT
+LoadSysRtc		RTC\13
+LoadSysRtc		RTC\13A
+LoadSysRtc		RTC\13A_CUT
+LoadSysRtc		RTC\14
+LoadSysRtc		RTC\15
+LoadSysRtc		RTC\16
+
+CloseBF
